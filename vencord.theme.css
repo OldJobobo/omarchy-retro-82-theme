@@ -1,0 +1,90 @@
+/* 8"""8                              eeeee  eeee  */
+/* 8   8  eeee eeeee eeeee  eeeee     8   8     8  */
+/* 82ee8e 8      8   8   8  8  82     82ee8     8  */
+/* 82   8 82ee   82  8eee8e 8   8    82   82 eee8  */
+/* 82   8 82     82  82   8 8   8    82   82 82    */
+/* 82   8 82ee   82  82   8 82ee8    82eee82 82ee  */
+/*                                                 */
+
+/**
+* @name Omarchy Retro Vencord
+* @author @oldjobobo
+* @version 0.1.0
+* @description Omarchy Retro palette layered on Omarchy Vencord Base
+**/
+
+@import url("../vencord.theme.base.css");
+
+:root {
+  --color00: #00172e;
+  --color01: #f85525;
+  --color02: #028391;
+  --color03: #e97b3c;
+  --color04: #faa968;
+  --color05: #3f8f8a;
+  --color06: #8cbfb8;
+  --color07: #a7c9c6;
+  --color08: #134e5a;
+  --color09: #f85525;
+  --color10: #028391;
+  --color11: #e97b3c;
+  --color12: #faa968;
+  --color13: #3f8f8a;
+  --color14: #8cbfb8;
+  --color15: #f6dcac;
+
+  --item-surface-0: var(--color00);
+  --item-surface-1: var(--color00);
+  --item-surface-2: var(--color08);
+  --item-surface-3: var(--color07);
+  --item-surface-4: var(--color15);
+
+  --item-text: var(--color15);
+  --item-text-muted: var(--color07);
+  --item-text-contrast: var(--color15);
+  --item-text-inverse: var(--color00);
+
+  --item-accent: var(--color04);
+  --item-accent-strong: var(--color03);
+  --item-danger: var(--color01);
+  --item-highlight: var(--color14);
+  --item-unread: var(--color12);
+
+  --item-mention-glow-1: var(--color05);
+  --item-mention-glow-2: var(--color12);
+  --item-mention-glow-3: var(--color02);
+
+  --item-message-text: var(--item-text);
+  --item-channel-name: var(--item-text-muted);
+  --item-channel-name-unread: var(--item-text);
+  --item-channel-name-selected: var(--item-highlight);
+  --item-username: var(--item-accent);
+  --item-mention-foreground: var(--item-text);
+  --item-mention-text: var(--item-text-muted);
+}
+
+/* Post style input padding */
+[class*="textAreaForPostCreation"] {
+  padding: 8px 10px !important;
+  box-sizing: border-box !important;
+}
+
+/* Post media button spacing */
+[class*="container__94439"] {
+  margin-left: 8px !important;
+}
+
+/*  ______   __       ______                                        */
+/* /_____/\ /_/\     /_____/\                                       */
+/* \:::_ \ \\:\ \    \:::_ \ \                                      */
+/*  \:\ \ \ \\:\ \    \:\ \ \ \                                     */
+/*   \:\ \ \ \\:\ \____\:\ \ \ \                                    */
+/*    \:\_\ \ \\:\/___/\\:\/.:| |                                   */
+/*  ___\_____\/_\_____\/ \____/_/  ______    _______   ______       */
+/* /________/\/_____/\ /_______/\ /_____/\ /_______/\ /_____/\      */
+/* \__.::.__\/\:::_ \ \\::: _  \ \\:::_ \ \\::: _  \ \\:::_ \ \     */
+/*   /_\::\ \  \:\ \ \ \\::(_)  \/_\:\ \ \ \\::(_)  \/_\:\ \ \ \    */
+/*   \:.\::\ \  \:\ \ \ \\::  _  \ \\:\ \ \ \\::  _  \ \\:\ \ \ \   */
+/*    \: \  \ \  \:\_\ \ \\::(_)  \ \\:\_\ \ \\::(_)  \ \\:\_\ \ \  */
+/*     \_____\/   \_____\/ \_______\/ \_____\/ \_______\/ \_____\/  */
+/*                                                                  */
