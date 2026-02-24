@@ -38,3 +38,7 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-retro-82-theme
     <td align="center" valign="top"><img src="backgrounds/06-pirate-bay.jpg" alt="06-pirate-bay" width="220"><br><sub>06-pirate-bay.jpg</sub></td>
   </tr>
 </table>
+
+## Donate
+
+- If you enjoy what I do, consider supporting me on Ko-fi: <https://ko-fi.com/oldjobobo>
