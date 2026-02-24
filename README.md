@@ -37,6 +37,9 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-retro-82-theme
     <td align="center" valign="top"><img src="backgrounds/05-gateway.jpg" alt="05-gateway" width="220"><br><sub>05-gateway.jpg</sub></td>
     <td align="center" valign="top"><img src="backgrounds/06-pirate-bay.jpg" alt="06-pirate-bay" width="220"><br><sub>06-pirate-bay.jpg</sub></td>
   </tr>
+  <tr>
+    <td align="center" valign="top"><img src="backgrounds/07-livingroom-1982.jpg" alt="07-livingroom-1982" width="220"><br><sub>07-livingroom-1982.jpg</sub></td>
+  </tr>
 </table>
 
 ## Donate
