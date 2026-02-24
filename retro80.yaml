@@ -1,0 +1,25 @@
+scheme: "Retro-80"
+author: "N1R4 and OldJobobo"
+variant: "dark"
+
+palette:
+  # --- Tonal ramp (NOT accents) ---
+  base00: "#00172E" # Deeper navy (true background, darker than before)
+  base01: "#01204E" # Navy *** (ANSI drop) ***
+  base02: "#0A3A45" # Dark teal shade *** (ANSI drop) ***
+  base03: "#134E5A" # Teal shadow / selection (old base02)
+  base04: "#5F8F96" # Muted seafoam-gray *** (ANSI drop) ***
+  base05: "#A7C9C6" # Light cool foreground
+  base06: "#FFF1DA" # Sand (primary text) *** (ANSI drop) ***
+  base07: "#F6DCAC" # Cream (lightest foreground)
+
+  # --- Semantic accents (purposeful bias) ---
+  base08: "#F85525" # Error (orange-red)
+  base09: "#F6DCAC" # Warning (peach) *** (ANSI drop) ***
+  base0A: "#E97B3C" # Keyword / constant
+  base0B: "#028391" # String / success (teal)
+  base0C: "#8CBFB8" # Support / regex / escape
+  base0D: "#FAA968" # Function / identifier (deep teal ink)
+  base0E: "#3F8F8A" # Statement / control (muted aqua)
+  base0F: "#176B73" # Deprecated / special (warm accent) *** (ANSI drop) ***
+

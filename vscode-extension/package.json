@@ -1,0 +1,27 @@
+{
+  "name": "retro-80-theme",
+  "displayName": "Retro-80 Theme",
+  "description": "Base16 Retro-80 color theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "oldjobobo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OldJobobo/omarchy-retro-82-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Base16 Retro-80",
+        "uiTheme": "vs-dark",
+        "path": "./themes/base16-retro-80-color-theme.json"
+      }
+    ]
+  }
+}
