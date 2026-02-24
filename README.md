@@ -43,11 +43,12 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-retro-82-theme
 ## VS Code extension wrapper
 
 This repo also contains a local VS Code extension wrapper under `vscode-extension/`.
+It is not published on the VS Code Marketplace.
 
 Build a local VSIX package:
 
 ```bash
 cd vscode-extension
 vsce package
-code --install-extension ./oldjobobo.retro-80-theme-0.0.1.vsix
+code --install-extension ./retro-80-theme-0.0.1.vsix
 ```
