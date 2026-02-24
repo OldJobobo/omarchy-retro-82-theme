@@ -28,14 +28,14 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-retro-82-theme
 
 <table cellpadding="8">
   <tr>
-    <td align="center" valign="top"><img src="backgrounds/02-bg-space-monkey_LE_upscale_digiart.jpg" alt="02-bg-space-monkey_LE_upscale_digiart" width="220"><br><sub>02-bg-space-monkey_LE_upscale_digiart.jpg</sub></td>
-    <td align="center" valign="top"><img src="backgrounds/oldjobobo_late_1980s_science_fiction_paperback_cover_style_deep_4e316e4d-dfb2-4e35-bfe0-be2c676a4183.png" alt="oldjobobo_late_1980s_science_fiction_paperback_cover_style_deep_4e316e4d-dfb2-4e35-bfe0-be2c676a4183" width="220"><br><sub>oldjobobo_late_1980s_science_fiction_paperback_cover_style_deep_4e316e4d-dfb2-4e35-bfe0-be2c676a4183.png</sub></td>
-    <td align="center" valign="top"><img src="backgrounds/oldjobobo_loose_abstract_painting_with_visible_brush_strokes_de_3ffc0adc-7b28-4a1e-b3b7-0832a22fd52d.png" alt="oldjobobo_loose_abstract_painting_with_visible_brush_strokes_de_3ffc0adc-7b28-4a1e-b3b7-0832a22fd52d" width="220"><br><sub>oldjobobo_loose_abstract_painting_with_visible_brush_strokes_de_3ffc0adc-7b28-4a1e-b3b7-0832a22fd52d.png</sub></td>
+    <td align="center" valign="top"><img src="backgrounds/01-omarchy.jpg" alt="01-omarchy" width="220"><br><sub>01-omarchy.jpg</sub></td>
+    <td align="center" valign="top"><img src="backgrounds/02-retro-sf.png" alt="02-retro-sf" width="220"><br><sub>02-retro-sf.png</sub></td>
+    <td align="center" valign="top"><img src="backgrounds/03-abstract-lines.png" alt="03-abstract-lines" width="220"><br><sub>03-abstract-lines.png</sub></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><img src="backgrounds/wallhaven-4lex82.png" alt="wallhaven-4lex82" width="220"><br><sub>wallhaven-4lex82.png</sub></td>
-    <td align="center" valign="top"><img src="backgrounds/wallhaven-rqgrlq.jpg" alt="wallhaven-rqgrlq" width="220"><br><sub>wallhaven-rqgrlq.jpg</sub></td>
-    <td align="center" valign="top"><img src="backgrounds/wallhaven-w51kxr.jpg" alt="wallhaven-w51kxr" width="220"><br><sub>wallhaven-w51kxr.jpg</sub></td>
+    <td align="center" valign="top"><img src="backgrounds/04-zen-boat.png" alt="04-zen-boat" width="220"><br><sub>04-zen-boat.png</sub></td>
+    <td align="center" valign="top"><img src="backgrounds/05-gateway.jpg" alt="05-gateway" width="220"><br><sub>05-gateway.jpg</sub></td>
+    <td align="center" valign="top"><img src="backgrounds/06-pirate-bay.jpg" alt="06-pirate-bay" width="220"><br><sub>06-pirate-bay.jpg</sub></td>
   </tr>
 </table>
 
@@ -48,7 +48,7 @@ It is not published on the VS Code Marketplace.
 Install directly from the bundled VSIX:
 
 ```bash
-code --install-extension ./vscode-extension/retro-80-theme-0.0.1.vsix
+code --install-extension ./vscode-extension/retro-82-theme-0.0.1.vsix
 ```
 
 Optional (maintainers): rebuild the VSIX package:
