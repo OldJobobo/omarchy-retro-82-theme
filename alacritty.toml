@@ -5,6 +5,11 @@
 # 82   8 82     82  82   8 8   8    82   82 82   
 # 82   8 82ee   82  82   8 82ee8    82eee82 82ee 
 #                                                
+[window]
+opacity = 0.75
+
+[colors]
+transparent_background_colors = true
 
 [colors]
 [colors.primary]
