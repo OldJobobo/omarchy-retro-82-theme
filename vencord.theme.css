@@ -819,7 +819,7 @@ li[class*="containerDefault"][class*="modeUnread"] [class*="name"] *,
 [class*="channelTextArea"] {
   border: 1px solid color-mix(in srgb, var(--item-highlight) 18%, transparent) !important;
   border-radius: 10px !important;
-  overflow: hidden !important;
+  overflow: visible !important;
 }
 
 [class*="channelTextArea"]:focus-within {
@@ -830,7 +830,7 @@ li[class*="containerDefault"][class*="modeUnread"] [class*="name"] *,
 [class*="channelTextArea"] [class*="scrollableContainer"],
 [class*="channelTextArea"] [class*="themedBackground"] {
   border-radius: inherit !important;
-  overflow: hidden !important;
+  overflow: visible !important;
 }
 
 [class*="textAreaForPostCreation"] {
