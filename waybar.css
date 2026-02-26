@@ -6,9 +6,9 @@
 /* 82   8 82ee   82  82   8 82ee8    82eee82 82ee  */
 /*                                                 */
 
-@define-color background #00172e;
+@define-color bg #00172e;
 @define-color foreground #f6dcac;
-
+@define-color background alpha(@bg, 0.8);
 /*  ______   __       ______                                        */
 /* /_____/\ /_/\     /_____/\                                       */
 /* \:::_ \ \\:\ \    \:::_ \ \                                      */
