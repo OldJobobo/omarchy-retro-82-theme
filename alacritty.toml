@@ -11,7 +11,6 @@ opacity = 0.8
 [colors]
 transparent_background_colors = true
 
-[colors]
 [colors.primary]
 background = "#00172e"
 foreground = "#f6dcac"
