@@ -26,21 +26,11 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-retro-82-theme
 
 ## Wallpapers
 
-<table cellpadding="8">
-  <tr>
-    <td align="center" valign="top"><img src="backgrounds/01-omarchy.jpg" alt="01-omarchy" width="220"><br><sub>01-omarchy.jpg</sub></td>
-    <td align="center" valign="top"><img src="backgrounds/02-retro-sf.png" alt="02-retro-sf" width="220"><br><sub>02-retro-sf.png</sub></td>
-    <td align="center" valign="top"><img src="backgrounds/03-abstract-lines.png" alt="03-abstract-lines" width="220"><br><sub>03-abstract-lines.png</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><img src="backgrounds/04-zen-boat.png" alt="04-zen-boat" width="220"><br><sub>04-zen-boat.png</sub></td>
-    <td align="center" valign="top"><img src="backgrounds/05-gateway.jpg" alt="05-gateway" width="220"><br><sub>05-gateway.jpg</sub></td>
-    <td align="center" valign="top"><img src="backgrounds/06-pirate-bay.jpg" alt="06-pirate-bay" width="220"><br><sub>06-pirate-bay.jpg</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><img src="backgrounds/07-livingroom-1982.jpg" alt="07-livingroom-1982" width="220"><br><sub>07-livingroom-1982.jpg</sub></td>
-  </tr>
-</table>
+| | | |
+| --- | --- | --- |
+| ![](backgrounds/01-omarchy.jpg) | ![](backgrounds/02-retro-sf.png) | ![](backgrounds/03-abstract-lines.png) |
+| ![](backgrounds/05-gateway.jpg) | ![](backgrounds/06-livingroom-1982.jpg) | ![](backgrounds/07-zen-boat.png) |
+| ![](backgrounds/08-walkman.jpg) | ![](backgrounds/09-pirate-bay.jpg) | ![](backgrounds/10-abstract-pyramids.jpg) |
 
 ## Donate
 
