@@ -7,7 +7,7 @@
 #                                                
 
 # Main background, empty for terminal default, need to be empty if you want transparent background
-theme[main_bg]="#00172e"
+theme[main_bg]=""
 
 # Main text color
 theme[main_fg]="#f6dcac"
