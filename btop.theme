@@ -44,8 +44,8 @@ theme[temp_end]="#028391"
 
 
 theme[cpu_start]="#a7c9c6"
-theme[cpu_mid]="#8cbfb8"
-theme[cpu_end]="#028391"
+theme[cpu_mid]="#e97b3c"
+theme[cpu_end]="#f85525"
 
 
 theme[free_start]="#faa968"
