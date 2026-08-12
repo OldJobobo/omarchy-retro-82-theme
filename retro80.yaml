@@ -1,3 +1,11 @@
+# 8"""8                              eeeee  eeee 
+# 8   8  eeee eeeee eeeee  eeeee     8   8     8 
+# 82ee8e 8      8   8   8  8  82     82ee8     8 
+# 82   8 82ee   82  8eee8e 8   8    82   82 eee8 
+# 82   8 82     82  82   8 8   8    82   82 82    
+# 82   8 82ee   82  82   8 82ee8    82eee82 82ee 
+#                                                
+
 scheme: "Retro-80"
 author: "N1R4 and OldJobobo"
 variant: "dark"
@@ -7,7 +15,7 @@ palette:
   base00: "#00172E" # Deeper navy (true background, darker than before)
   base01: "#01204E" # Navy *** (ANSI drop) ***
   base02: "#0A3A45" # Dark teal shade *** (ANSI drop) ***
-  base03: "#134E5A" # Teal shadow / selection (old base02)
+  base03: "#57898A" # Muted teal for comments and inactive text
   base04: "#5F8F96" # Muted seafoam-gray *** (ANSI drop) ***
   base05: "#A7C9C6" # Light cool foreground
   base06: "#FFF1DA" # Sand (primary text) *** (ANSI drop) ***
@@ -23,3 +31,17 @@ palette:
   base0E: "#3F8F8A" # Statement / control (muted aqua)
   base0F: "#176B73" # Deprecated / special (warm accent) *** (ANSI drop) ***
 
+#  ______   __       ______                                       
+# /_____/\ /_/\     /_____/\                                      
+# \:::_ \ \\:\ \    \:::_ \ \                                     
+#  \:\ \ \ \\:\ \    \:\ \ \ \                                    
+#   \:\ \ \ \\:\ \____\:\ \ \ \                                   
+#    \:\_\ \ \\:\/___/\\:\/.:| |                                  
+#  ___\_____\/_\_____\/ \____/_/  ______    _______   ______      
+# /________/\/_____/\ /_______/\ /_____/\ /_______/\ /_____/\     
+# \__.::.__\/\:::_ \ \\::: _  \ \\:::_ \ \\::: _  \ \\:::_ \ \    
+#   /_\::\ \  \:\ \ \ \\::(_)  \/_\:\ \ \ \\::(_)  \/_\:\ \ \ \   
+#   \:.\::\ \  \:\ \ \ \\::  _  \ \\:\ \ \ \\::  _  \ \\:\ \ \ \  
+#    \: \  \ \  \:\_\ \ \\::(_)  \ \\:\_\ \ \\::(_)  \ \\:\_\ \ \ 
+#     \_____\/   \_____\/ \_______\/ \_____\/ \_______\/ \_____\/ 
+#                                                                 

@@ -2,12 +2,12 @@
 /* 8   8  eeee eeeee eeeee  eeeee     8   8     8  */
 /* 82ee8e 8      8   8   8  8  82     82ee8     8  */
 /* 82   8 82ee   82  8eee8e 8   8    82   82 eee8  */
-/* 82   8 82     82  82   8 8   8    82   82 82    */
+/* 82   8 82     82  82   8 8   8    82   82 82     */
 /* 82   8 82ee   82  82   8 82ee8    82eee82 82ee  */
 /*                                                 */
 
 @define-color background-color #00172e;
-@define-color border-color #134e5a;
+@define-color border-color #57898a;
 @define-color label #f6dcac;
 @define-color image #f6dcac;
 @define-color progress #e97b3c;

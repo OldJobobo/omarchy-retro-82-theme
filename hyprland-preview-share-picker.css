@@ -1,0 +1,117 @@
+/* 8"""8                              eeeee  eeee  */
+/* 8   8  eeee eeeee eeeee  eeeee     8   8     8  */
+/* 82ee8e 8      8   8   8  8  82     82ee8     8  */
+/* 82   8 82ee   82  8eee8e 8   8    82   82 eee8  */
+/* 82   8 82     82  82   8 8   8    82   82 82     */
+/* 82   8 82ee   82  82   8 82ee8    82eee82 82ee  */
+/*                                                 */
+
+@define-color foreground #f6dcac;
+@define-color background #00172e;
+@define-color accent #faa968;
+@define-color muted #57898a;
+@define-color card_bg #00172e;
+@define-color text_dark #00172e;
+@define-color accent_hover #fbb986;
+@define-color selected_tab #faa968;
+@define-color text #f6dcac;
+
+* {
+  all: unset;
+  font-family: JetBrains Mono NF;
+  color: @foreground;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.window {
+  background: alpha(@background, 0.95);
+  border: solid 2px @accent;
+  margin: 4px;
+  padding: 18px;
+}
+
+tabs {
+    padding: 0.5rem 1rem;
+}
+
+tabs > tab {
+    margin-right: 1rem;
+}
+
+.tab-label {
+    color: @text;
+    transition: all 0.2s ease;
+}
+
+tabs > tab:checked > .tab-label, tabs > tab:active > .tab-label {
+    text-decoration: underline currentColor;
+    color: @selected_tab;
+}
+
+tabs > tab:focus > .tab-label {
+    color: @foreground;
+}
+
+.page {
+    padding: 1rem;
+}
+
+.image-label {
+    font-size: 12px;
+    padding: 0.25rem;
+}
+
+flowboxchild > .card, button > .card {
+    transition: all 0.2s ease;
+    border: solid 2px transparent;
+    border-color: @background;
+    border-radius: 5px;
+    background-color: @card_bg;
+    padding: 5px;
+}
+
+flowboxchild:hover > .card, button:hover > .card, flowboxchild:active > .card, flowboxchild:selected > .card, button:active > .card, button:selected > .card, button:focus > .card {
+    border: solid 2px @accent;
+}
+
+.image {
+    border-radius: 5px;
+}
+
+.region-button {
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    background-color: @accent;
+    color: @text_dark;
+    transition: all 0.2s ease;
+}
+
+.region-button > label {
+    color: @text_dark;
+}
+
+.region-button:not(:disabled):hover, .region-button:not(:disabled):focus {
+    background-color: @accent_hover;
+    color: @text_dark;
+}
+
+.region-button:disabled {
+    background-color: @muted;
+    color: @background;
+}
+
+/*  ______   __       ______                                        */
+/* /_____/\ /_/\     /_____/\                                       */
+/* \:::_ \ \\:\ \    \:::_ \ \                                      */
+/*  \:\ \ \ \\:\ \    \:\ \ \ \                                     */
+/*   \:\ \ \ \\:\ \____\:\ \ \ \                                    */
+/*    \:\_\ \ \\:\/___/\\:\/.:| |                                   */
+/*  ___\_____\/_\_____\/ \____/_/  ______    _______   ______       */
+/* /________/\/_____/\ /_______/\ /_____/\ /_______/\ /_____/\      */
+/* \__.::.__\/\:::_ \ \\::: _  \ \\:::_ \ \\::: _  \ \\:::_ \ \     */
+/*   /_\::\ \  \:\ \ \ \\::(_)  \/_\:\ \ \ \\::(_)  \/_\:\ \ \ \    */
+/*   \:.\::\ \  \:\ \ \ \\::  _  \ \\:\ \ \ \\::  _  \ \\:\ \ \ \   */
+/*    \: \  \ \  \:\_\ \ \\::(_)  \ \\:\_\ \ \\::(_)  \ \\:\_\ \ \  */
+/*     \_____\/   \_____\/ \_______\/ \_____\/ \_______\/ \_____\/  */
+/*                                                                  */

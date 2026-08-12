@@ -2,9 +2,10 @@
 # 8   8  eeee eeeee eeeee  eeeee     8   8     8 
 # 82ee8e 8      8   8   8  8  82     82ee8     8 
 # 82   8 82ee   82  8eee8e 8   8    82   82 eee8 
-# 82   8 82     82  82   8 8   8    82   82 82   
+# 82   8 82     82  82   8 8   8    82   82 82    
 # 82   8 82ee   82  82   8 82ee8    82eee82 82ee 
 #                                                
+
 [window]
 opacity = 0.8
 
@@ -15,29 +16,49 @@ transparent_background_colors = true
 background = "#00172e"
 foreground = "#f6dcac"
 
+[colors.cursor]
+text = "#00172e"
+cursor = "#f6dcac"
+
+[colors.vi_mode_cursor]
+text = "#00172e"
+cursor = "#f6dcac"
+
+[colors.search.matches]
+foreground = "#00172e"
+background = "#e97b3c"
+
+[colors.search.focused_match]
+foreground = "#00172e"
+background = "#f85525"
+
+[colors.footer_bar]
+foreground = "#00172e"
+background = "#f6dcac"
+
+[colors.selection]
+text = "#00172e"
+background = "#faa968"
+
 [colors.normal]
-black   = "#00172e"
-red     = "#f85525"
-green   = "#028391"
-yellow  = "#e97b3c"
-blue    = "#faa968"
+black = "#00172e"
+red = "#f85525"
+green = "#028391"
+yellow = "#e97b3c"
+blue = "#faa968"
 magenta = "#3f8f8a"
-cyan    = "#8cbfb8"
-white   = "#a7c9c6"
+cyan = "#8cbfb8"
+white = "#f6dcac"
 
 [colors.bright]
-black   = "#134e5a"
-red     = "#f85525"
-green   = "#028391"
-yellow  = "#e97b3c"
-blue    = "#faa968"
-magenta = "#3f8f8a"
-cyan    = "#8cbfb8"
-white   = "#f6dcac"
-
-[colors.cursor]
-text   = "#00172e"
-cursor = "#f6dcac"
+black = "#57898a"
+red = "#f97751"
+green = "#35a2a7"
+yellow = "#ed9563"
+blue = "#fbb986"
+magenta = "#65a5a1"
+cyan = "#a3ccc6"
+white = "#f6dcac"
 
 #  ______   __       ______                                       
 # /_____/\ /_/\     /_____/\                                      

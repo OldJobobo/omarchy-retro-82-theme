@@ -1,3 +1,11 @@
+/* 8"""8                              eeeee  eeee  */
+/* 8   8  eeee eeeee eeeee  eeeee     8   8     8  */
+/* 82ee8e 8      8   8   8  8  82     82ee8     8  */
+/* 82   8 82ee   82  8eee8e 8   8    82   82 eee8  */
+/* 82   8 82     82  82   8 8   8    82   82 82     */
+/* 82   8 82ee   82  82   8 82ee8    82eee82 82ee  */
+/*                                                 */
+
 /* Omarchy Theme for Obsidian */
 
 .theme-dark, .theme-light {
@@ -12,7 +20,7 @@
   --text-selection: #faa968;
 
   /* Border color */
-  --background-modifier-border: #134e5a;
+  --background-modifier-border: #57898a;
 
   /* Semantic heading colors */
   --text-title-h1: #f85525;
@@ -31,7 +39,7 @@
 
   /* Muted text */
   --text-muted: #028391;
-  --text-faint: #134e5a;
+  --text-faint: #57898a;
 
   /* Code */
   --code-normal: #8cbfb8;
@@ -43,10 +51,10 @@
 
   /* Tags */
   --tag-color: #8cbfb8;
-  --tag-background: #134e5a;
+  --tag-background: #57898a;
 
   /* Graph */
-  --graph-line: #134e5a;
+  --graph-line: #57898a;
   --graph-node: #faa968;
   --graph-node-focused: #faa968;
   --graph-node-tag: #8cbfb8;
@@ -70,7 +78,7 @@
 .cm-s-obsidian span.cm-keyword { color: #f85525; }
 .cm-s-obsidian span.cm-string { color: #028391; }
 .cm-s-obsidian span.cm-number { color: #e97b3c; }
-.cm-s-obsidian span.cm-comment { color: #134e5a; }
+.cm-s-obsidian span.cm-comment { color: #57898a; }
 .cm-s-obsidian span.cm-operator { color: #faa968; }
 .cm-s-obsidian span.cm-def { color: #faa968; }
 
@@ -97,3 +105,18 @@
 .search-result-file-title {
   color: var(--interactive-accent);
 }
+
+/*  ______   __       ______                                        */
+/* /_____/\ /_/\     /_____/\                                       */
+/* \:::_ \ \\:\ \    \:::_ \ \                                      */
+/*  \:\ \ \ \\:\ \    \:\ \ \ \                                     */
+/*   \:\ \ \ \\:\ \____\:\ \ \ \                                    */
+/*    \:\_\ \ \\:\/___/\\:\/.:| |                                   */
+/*  ___\_____\/_\_____\/ \____/_/  ______    _______   ______       */
+/* /________/\/_____/\ /_______/\ /_____/\ /_______/\ /_____/\      */
+/* \__.::.__\/\:::_ \ \\::: _  \ \\:::_ \ \\::: _  \ \\:::_ \ \     */
+/*   /_\::\ \  \:\ \ \ \\::(_)  \/_\:\ \ \ \\::(_)  \/_\:\ \ \ \    */
+/*   \:.\::\ \  \:\ \ \ \\::  _  \ \\:\ \ \ \\::  _  \ \\:\ \ \ \   */
+/*    \: \  \ \  \:\_\ \ \\::(_)  \ \\:\_\ \ \\::(_)  \ \\:\_\ \ \  */
+/*     \_____\/   \_____\/ \_______\/ \_____\/ \_______\/ \_____\/  */
+/*                                                                  */

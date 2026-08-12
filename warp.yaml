@@ -2,7 +2,7 @@
 # 8   8  eeee eeeee eeeee  eeeee     8   8     8 
 # 82ee8e 8      8   8   8  8  82     82ee8     8 
 # 82   8 82ee   82  8eee8e 8   8    82   82 eee8 
-# 82   8 82     82  82   8 8   8    82   82 82   
+# 82   8 82     82  82   8 8   8    82   82 82    
 # 82   8 82ee   82  82   8 82ee8    82eee82 82ee 
 #                                                
 
@@ -24,13 +24,13 @@ terminal_colors:
     cyan:    "#8cbfb8"
     white:   "#a7c9c6"
   bright:
-    black:   "#134e5a"
-    red:     "#f85525"
-    green:   "#028391"
-    yellow:  "#e97b3c"
-    blue:    "#faa968"
-    magenta: "#3f8f8a"
-    cyan:    "#8cbfb8"
+    black:   "#57898a"
+    red:     "#f97751"
+    green:   "#35a2a7"
+    yellow:  "#ed9563"
+    blue:    "#fbb986"
+    magenta: "#65a5a1"
+    cyan:    "#a3ccc6"
     white:   "#f6dcac"
 
 #  ______   __       ______                                       
