@@ -23,6 +23,14 @@ hl.config({
       border_inactive = inactive_border_color,
     },
   },
+
+  decoration = {
+    blur = {
+      enabled = true,
+      size = 3,
+      passes = 1,
+    },
+  },
 })
 
 --  ______   __       ______                                       

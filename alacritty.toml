@@ -7,7 +7,7 @@
 #                                                
 
 [window]
-opacity = 0.8
+opacity = 0.888
 
 [colors]
 transparent_background_colors = true
